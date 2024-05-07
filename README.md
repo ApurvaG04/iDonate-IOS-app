@@ -1,4 +1,4 @@
-#iDonate IOS App
+# iDonate IOS App
 
 ## Background and motivation: 
 This project is aimed at addressing the problem of food waste and finding solutions to reduce the amount of food waste in our local communities. Our application is attempting to address how to make the concept of food donation much simpler and more efficient, being able to manage inventory, including a review system for each donation location, and being able to create delicious foods based on the user input without having the struggles of finding a recipe that uses the foods inputted.
